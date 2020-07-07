@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# shopify_app
+>>>>>>> c305ec6dc8e00867e91ed14a5ac21a4b037f2f9b
